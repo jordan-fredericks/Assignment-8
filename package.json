@@ -1,0 +1,19 @@
+{
+  "name": "assignment-8---custom-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordan-fredericks/Assignment-8.git"
+  },
+  "author": "Jordan Fredericks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordan-fredericks/Assignment-8/issues"
+  },
+  "homepage": "https://github.com/jordan-fredericks/Assignment-8#readme"
+}
